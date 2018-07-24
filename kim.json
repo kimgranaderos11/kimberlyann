@@ -1,1 +1,65 @@
-
+[
+  {
+    "id": 145,
+    "name": "Sts. Peter & Paul Parish",
+    "imageUrl": "https://raw.githubusercontent.com/kimgranaderos11/kimberlyann/master/New%20folder/bauangchurch.jpg",
+    "price": 100,
+    "priceCurrency": "₱",
+    "lat": 16.526103,
+    "lng": 120.330813
+  },
+  {
+    "id": 148,
+    "name": "Gapuz Grapes Farm",
+    "imageUrl": "https://raw.githubusercontent.com/jethrew/jabien/master/qwerty/h2.jpg",
+    "price": 200,
+    "priceCurrency": "₱",
+    "lat": 16.461037,
+    "lng": 120.333889
+  },
+  {
+    "id": 201,
+    "name": "Jorisan Waterfront Resort",
+    "imageUrl": "https://raw.githubusercontent.com/kimgranaderos11/kimberlyann/master/New%20folder/jorisan.jpg",
+    "price": 150,
+    "priceCurrency": "₱",
+    "lat": 16.571649,
+    "lng": 120.321139
+  },
+  {
+    "id": 205,
+    "name": "Kahuna Beach Resort and Spa",
+    "imageUrl": "https://raw.githubusercontent.com/kimgranaderos11/kimberlyann/master/New%20folder/kahuna.jpg",
+    "price": 1000,
+    "priceCurrency": "₱",
+    "lat": 16.658323,
+    "lng": 120.321715
+  },
+  {
+    "id": 211,
+    "name": "Kamay Na Bato Open Art Gallery",
+    "imageUrl": "https://raw.githubusercontent.com/kimgranaderos11/kimberlyann/master/New%20folder/kamay.jpg",
+    "price": 600,
+    "priceCurrency": "₱",
+    "lat": 16.847151,
+    "lng": 120.351724
+  },
+    {
+    "id": 212,
+    "name": "Ma-Cho Temple",
+    "imageUrl": "https://raw.githubusercontent.com/kimgranaderos11/kimberlyann/master/New%20folder/macho.JPG",
+    "price": 499,
+    "priceCurrency": "₱",
+    "lat": 16.621183, 
+    "lng": 120.317494
+  },
+   {
+    "id": 213,
+    "name": "Home (Pagdalagan sur bauang l u ",
+    "imageUrl": "https://raw.githubusercontent.com/kimgranaderos11/kimberlyann/master/New%20folder/home.png",
+    "price": 350,
+    "priceCurrency": "₱",
+    "lat": 16.572318,
+    "lng": 120.323447
+  }
+]
